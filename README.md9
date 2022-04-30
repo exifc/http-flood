@@ -2,4 +2,4 @@
 flood websites with this revolutionary script
 
 
-<h3>usage: python flood.py (url) (threads) (proxy list) (verbose level, can be 1 or 2, optional)</h3>
+### usage: python flood.py (url) (threads) (proxy list) (verbose level, can be 1 or 2, optional)
